@@ -23,3 +23,5 @@ This project is a simple UI (User Interface) generated using HTML and CSS. It se
 1. Clone the repository:
    ```bash
    git clone https://github.com/Atharvaa20/UI-design-using-HTML-CSS.git
+
+2.Open the index.html file in your web browser.
